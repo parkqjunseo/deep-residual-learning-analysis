@@ -1,4 +1,4 @@
-# Deep Residual Learning: Architecture Analysis and Empirical Study
+# Deep Residual Learning
 
 This repository presents an architectural analysis and empirical study of
 **deep residual learning**, focusing on understanding why residual networks
